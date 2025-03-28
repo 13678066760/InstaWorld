@@ -1,0 +1,6 @@
+[submodule "infinigen"]
+	path = infinigen
+	url = https://github.com/princeton-vl/infinigen.git
+[submodule "Depth-Anything"]
+	path = Depth-Anything
+	url = https://github.com/LiheYoung/Depth-Anything.git
